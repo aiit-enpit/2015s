@@ -8,6 +8,8 @@ Web Application development by agile method in class 2015
 * backlog: URL
 * members: github account name, ..., 
 
+
+## notes
 please update your service by your self
 
 http://enpit.aiit.ac.jp/curriculum (in Japanese)
