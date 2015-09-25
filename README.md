@@ -6,6 +6,7 @@ Web Application development by agile method in class 2015
 * source: https://github.com/
 * service: http://your-service-name.herokuapp.com/
 * backlog: URL
+* members: github account name, ..., 
 
 please update your service by your self
 
