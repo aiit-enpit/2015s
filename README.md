@@ -2,7 +2,8 @@
 =====
 Web Application development by agile method in class 2015
 
-## team-name "service name"
+```
+## <team-name> "<service name>"
 * description:
 * source: https://github.com/
 * service: http://your-service-name.herokuapp.com/
@@ -11,6 +12,7 @@ Web Application development by agile method in class 2015
 * members: github account name, ...,
 * business hours: e.g. monday 20:10-21:40, saturday 13:00-14:30
 * notes:
+```
 
 ## team-name "いいね"
 * description: awesome name service as `いいね〜む`.
@@ -39,13 +41,14 @@ Web Application development by agile method in class 2015
 * members: @5843435, @AkiraTamai, @kkazuma, @tumezu
 * notes:
 
-## team-name "わたしにもできるかも！？(仮)"
+## team-name "わたしもなれるかも！？"
 * description: アイドルに会えるかも
 * source : https://github.com/JunkiK/seaside_lab
 * service: (TBD) https://seaside-lab.herokuapp.com/
 * CI/test: (TBD) https://travis-ci.org/JunkiK/seaside_lab
 * backlog: (TBD) URL
-* members: @JunkiK, @ookawa443, @e1501ta, @MaMiyauchi, @z15026hy
+* business hours: e.g. Wednesday 19:00-21:40, saturday 13:00-18:00
+* members: @JunkiK(SM), @ookawa443(PO), @e1501ta, @MaMiyauchi, @z15026hy
 * notes:
 
 ## 河北飯店 "親孝行サービス(仮)"
@@ -54,9 +57,21 @@ Web Application development by agile method in class 2015
 * service: https://lit-journey-4733.herokuapp.com/
 * CI/test: https://travis-ci.org/KahokuHanten/oyako
 * backlog: https://trello.com/b/W5HXXb1h/-
-* members: @1510jy, @okamuratakeshi (SM), @sasai (PO), @ShigeruIchinoki, @ShinyaIshikawa
+* members: @a1510jy, @okamuratakeshi (SM), @sasai (PO), @ShigeruIchinoki, @ShinyaIshikawa
 * business hours: saturday 14:45-16:15, 16:30-18:00, (remote) thursday 21:00-22:00
 * notes:
+
+## team-name "tebiti"
+* description: スポーツの種目のメンバーを結びつけるサービス(仮)
+* source: https://github.com/yuya-painapo/want_to
+* service: http://infinite-plateau-1767.herokuapp.com/
+* CI/test: (TBD) URL
+* backlog: (TBD) URL
+* members: @yuya-painapo, @taikione, @k158584
+* notes:
+
+
+
 
 ## notes
 please update your service by your self
