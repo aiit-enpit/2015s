@@ -9,6 +9,7 @@ Web Application development by agile method in class 2015
 * CI/test: travis CI URL
 * backlog: URL
 * members: github account name, ...,
+* business hours: e.g. monday 20:10-21:40, saturday 13:00-14:30
 * notes:
 
 ## team-name "いいね"
