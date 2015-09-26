@@ -29,7 +29,7 @@ Web Application development by agile method in class 2015
 * members: @konagayoshi, @Hikaru8191, @IshizukaYasuhito
 * notes:
 
-## team-name "CapricornVCT"
+## team-name "Capricorn"
 * description: エンジニア
 * source: https://github.com/5843435/capricorn
 * service: https://rails-capricorn.herokuapp.com/
