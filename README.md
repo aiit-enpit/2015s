@@ -48,13 +48,14 @@ Web Application development by agile method in class 2015
 * members: @JunkiK, @ookawa443, @e1501ta, @MaMiyauchi, @z15026hy
 * notes:
 
-## team-name "河北飯店"
-* description: 親孝行サービス
+## 河北飯店 "親孝行サービス(仮)"
+* description: 親子の絆を強くする親孝行サービスです。
 * source: https://github.com/KahokuHanten/oyako
 * service: https://lit-journey-4733.herokuapp.com/
 * CI/test: https://travis-ci.org/KahokuHanten/oyako
 * backlog: https://trello.com/b/W5HXXb1h/-
-* members: @1510jy, @okamuratakeshi, @sasai, @ShigeruIchinoki, @ShinyaIshikawa
+* members: @1510jy, @okamuratakeshi (SM), @sasai (PO), @ShigeruIchinoki, @ShinyaIshikawa
+* business hours: saturday 14:45-16:15, 16:30-18:00, (remote) thursday 21:00-22:00
 * notes:
 
 ## notes
