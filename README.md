@@ -29,7 +29,7 @@ Web Application development by agile method in class 2015
 * service:: https://afternoon-badlands-8491.herokuapp.com/
 * CI/test: https://travis-ci.org/konagayoshi/VCT
 * backlog: https://trello.com/b/sLKvl9Xb/task
-* members: @konagayoshi, @Hikaru8191, @IshizukaYasuhito
+* members: @konagayoshi, @Hikaru8191(SM), @IshizukaYasuhito(PO)
 * notes:
 
 ## team-name "Capricorn"
