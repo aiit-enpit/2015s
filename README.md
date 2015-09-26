@@ -30,12 +30,12 @@ Web Application development by agile method in class 2015
 * notes:
 
 ## team-name "Capricorn"
-* description: エンジニア
+* description: エンジニア向けの情報提供サービス
 * source: https://github.com/5843435/capricorn
 * service: https://rails-capricorn.herokuapp.com/
 * CI/test: (TBD)
 * backlog: https://docs.google.com/spreadsheets/d/1Cm9DTut0jADPKoMUo_prHwVYGzn2P912OdoWxY_pz6w/edit?usp=sharing
-* members: 加藤明、玉井、梅津、神山
+* members: @5843435, @AkiraTamai, @kkazuma, @tumezu
 * notes:
 
 ## notes
