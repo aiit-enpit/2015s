@@ -20,13 +20,13 @@ Web Application development by agile method in class 2015
 * members: @atakei, @chrhsmt, @harakoji, @KenyaOkada, @kinchan33
 * notes:
 
-## team-name "Capricorn"
-* description: エンジニア
-* source: https://github.com/5843435/capricorn
-* service: https://rails-capricorn.herokuapp.com/
-* CI/test: (TBD) 
-* backlog: https://docs.google.com/spreadsheets/d/1Cm9DTut0jADPKoMUo_prHwVYGzn2P912OdoWxY_pz6w/edit?usp=sharing
-* members: 加藤明、玉井、梅津、神山
+## team-name "VCT"
+* description: ベトナム語画像検索
+* source: https://github.com/konagayoshi/VCT
+* service: (TBD) http://your-service-name.herokuapp.com/
+* CI/test: (TBD) travis CI URL
+* backlog: (TBD) URL
+* members: @konagayoshi, @Hikaru8191, @IshizukaYasuhito
 * notes:
 
 ## notes
