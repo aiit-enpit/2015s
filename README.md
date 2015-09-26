@@ -59,9 +59,9 @@ Web Application development by agile method in class 2015
 
 
 ## team-name "tebiti"
-* description: 目的のある人同士結びつけるサービス(仮)
-* source: https://github.com/aiit-enpit/2015s
-* service: https://github.com/yuya-painapo/want_to
+* description: スポーツの種目のメンバーを結びつけるサービス(仮)
+* source: https://github.com/yuya-painapo/want_to
+* service: http://infinite-plateau-1767.herokuapp.com/
 * CI/test: (TBD) URL
 * backlog: (TBD) URL
 * members: @yuya-painapo, @taikione, @k158584
