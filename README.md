@@ -48,14 +48,27 @@ Web Application development by agile method in class 2015
 * members: @JunkiK, @ookawa443, @e1501ta, @MaMiyauchi, @z15026hy
 * notes:
 
-## team-name "河北飯店"
+## team-name "tebiti"
 * description: 親孝行サービス
-* source: https://github.com/KahokuHanten/oyako
+* source:  https://github.com/KahokuHanten/oyako
 * service: https://lit-journey-4733.herokuapp.com/
 * CI/test: https://travis-ci.org/KahokuHanten/oyako
 * backlog: https://trello.com/b/W5HXXb1h/-
 * members: @1510jy, @okamuratakeshi, @sasai, @ShigeruIchinoki, @ShinyaIshikawa
 * notes:
+
+
+## team-name "tebiti"
+* description: 目的のある人同士結びつけるサービス(仮)
+* source: https://github.com/aiit-enpit/2015s
+* service: https://github.com/yuya-painapo/want_to
+* CI/test: (TBD) URL
+* backlog: (TBD) URL
+* members: @yuya-painapo, @taikione, @k158584
+* notes:
+
+
+
 
 ## notes
 please update your service by your self
