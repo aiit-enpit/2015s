@@ -2,7 +2,8 @@
 =====
 Web Application development by agile method in class 2015
 
-## team-name "service name"
+```
+## <team-name> "<service name>"
 * description:
 * source: https://github.com/
 * service: http://your-service-name.herokuapp.com/
@@ -11,6 +12,7 @@ Web Application development by agile method in class 2015
 * members: github account name, ...,
 * business hours: e.g. monday 20:10-21:40, saturday 13:00-14:30
 * notes:
+```
 
 ## team-name "いいね"
 * description: awesome name service as `いいね〜む`.
