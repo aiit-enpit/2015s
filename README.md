@@ -37,7 +37,7 @@ Web Application development by agile method in class 2015
 * source: https://github.com/5843435/capricorn
 * service: https://rails-capricorn.herokuapp.com/
 * CI/test: (TBD)
-* backlog: https://docs.google.com/spreadsheets/d/1Cm9DTut0jADPKoMUo_prHwVYGzn2P912OdoWxY_pz6w/edit?usp=sharing
+* backlog: https://trello.com/b/oEhnlYKW/capricorn
 * members: @5843435, @AkiraTamai, @kkazuma, @tumezu
 * notes:
 
