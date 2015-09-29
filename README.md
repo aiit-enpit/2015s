@@ -37,8 +37,9 @@ Web Application development by agile method in class 2015
 * description: エンジニア向けの情報提供サービス
 * source: https://github.com/5843435/capricorn
 * service: https://rails-capricorn.herokuapp.com/
-* CI/test: (TBD)
+* CI/test: https://travis-ci.org/5843435/capricorn
 * backlog: https://trello.com/b/oEhnlYKW/capricorn
+* business hours: Wednesday 19:30-21:00 @ Yurakucho, Saturday 13:00-18:00 @ aiit
 * members: @5843435, @AkiraTamai, @kkazuma, @tumezu
 * notes:
 
