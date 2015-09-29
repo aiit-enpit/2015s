@@ -41,7 +41,7 @@ Web Application development by agile method in class 2015
 * members: @5843435, @AkiraTamai, @kkazuma, @tumezu
 * notes:
 
-## team-name "わたしもなれるかも！？"
+## シーサイド技研 "わたしもなれるかも！？"
 * description: アイドルに会えるかも
 * source : https://github.com/JunkiK/seaside_lab
 * service: (TBD) https://seaside-lab.herokuapp.com/
