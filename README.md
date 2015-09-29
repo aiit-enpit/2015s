@@ -42,7 +42,7 @@ Web Application development by agile method in class 2015
 * notes:
 
 ## シーサイド技研 "わたしもなれるかも！？"
-* description: アイドルに会えるかも
+* description: 綺麗になりたい女子のダイエットをサポートするサービスです。
 * source : https://github.com/JunkiK/seaside_lab
 * service: (TBD) https://seaside-lab.herokuapp.com/
 * CI/test: (TBD) https://travis-ci.org/JunkiK/seaside_lab
