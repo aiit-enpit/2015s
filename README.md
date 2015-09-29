@@ -14,14 +14,15 @@ Web Application development by agile method in class 2015
 * notes:
 ```
 
-## team-name "いいね"
-* description: awesome name service as `いいね〜む`.
+## いいね "いいね〜む"
+* description: awesome name service as **いいね〜む**.
 * source: https://github.com/iine/iiname
-* service: (TBD) http://your-service-name.herokuapp.com/
-* CI/test: (TBD) travis CI URL
-* backlog: (TBD) URL
-* members: @atakei, @chrhsmt, @harakoji, @KenyaOkada, @kinchan33
-* notes:
+* service: http://iiname.herokuapp.com/
+* CI/test: https://travis-ci.org/iine/iiname/
+* backlog: https://trello.com/b/CYm33FNj/iiname
+* members: @atakei, @chrhsmt (SM), @harakoji (PO), @KenyaOkada, @kinchan33
+* business hours: saturday 12:10-13:00...13:10, 18:00-19:30, (予備) monday 21:40-22:10
+* notes: [![コブラ](http://tiqav.com/5H9.th.jpg)](http://tiqav.com/5H9)
 
 ## team-name "VCT"
 * description: ベトナム語画像検索
