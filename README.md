@@ -12,7 +12,7 @@ Web Application development by agile method in class 2015
 * business hours: e.g. monday 20:10-21:40, saturday 13:00-14:30
 * notes:
 
-## team-name "いいね"
+## いいね "いいね〜む"
 * description: awesome name service as **いいね〜む**.
 * source: https://github.com/iine/iiname
 * service: http://iiname.herokuapp.com/
