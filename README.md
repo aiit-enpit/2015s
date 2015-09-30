@@ -64,11 +64,11 @@ Web Application development by agile method in class 2015
 * notes:
 
 ## team-name "tebiti"
-* description: スポーツの種目のメンバーを結びつけるサービス(仮)
+* description: ハイライト動画作成支援サービス
 * source: https://github.com/yuya-painapo/want_to
 * service: http://infinite-plateau-1767.herokuapp.com/
-* CI/test: (TBD) URL
-* backlog: (TBD) URL
+* CI/test: https://travis-ci.org/yuya-painapo/want_to
+* backlog: https://trello.com/b/Uau9ZLsp/tebiti
 * members: @yuya-painapo, @taikione, @k158584
 * notes:
 
