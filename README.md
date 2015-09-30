@@ -69,7 +69,8 @@ Web Application development by agile method in class 2015
 * service: http://infinite-plateau-1767.herokuapp.com/
 * CI/test: https://travis-ci.org/yuya-painapo/want_to
 * backlog: https://trello.com/b/Uau9ZLsp/tebiti
-* members: @yuya-painapo, @taikione, @k158584
+* members: @yuya-painapo, @taikione (PM), @k158584 (SM)
+* business hours: saturday 10:00-15:00, thursday 10:00-12:00
 * notes:
 
 
