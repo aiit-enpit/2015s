@@ -39,7 +39,10 @@ Web Application development by agile method in class 2015
 * service: https://rails-capricorn.herokuapp.com/
 * CI/test: https://travis-ci.org/5843435/capricorn
 * backlog: https://trello.com/b/oEhnlYKW/capricorn
-* business hours: Wednesday 19:30-21:00 @ Yurakucho, Saturday 13:00-18:00 @ aiit
+* business hours: 毎週土曜日午後に加えて...
+* 10/6（火） 20:00 @ Yurakucho
+* 10/12（祝） or 16（金） @ TBD
+* 10/19（月） @ TBD
 * members: @5843435(SM), @AkiraTamai, @kkazuma(PO)
 * notes:
 
