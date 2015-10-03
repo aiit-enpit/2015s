@@ -14,14 +14,15 @@ Web Application development by agile method in class 2015
 * notes:
 ```
 
-## team-name "いいね"
-* description: awesome name service as `いいね〜む`.
+## いいね "いいね〜む"
+* description: awesome name service as **いいね〜む**.
 * source: https://github.com/iine/iiname
-* service: (TBD) http://your-service-name.herokuapp.com/
-* CI/test: (TBD) travis CI URL
-* backlog: (TBD) URL
-* members: @atakei, @chrhsmt, @harakoji, @KenyaOkada, @kinchan33
-* notes:
+* service: http://iiname.herokuapp.com/
+* CI/test: https://travis-ci.org/iine/iiname/
+* backlog: https://trello.com/b/CYm33FNj/iiname
+* members: @atakei, @chrhsmt (SM), @harakoji (PO), @KenyaOkada, @kinchan33
+* business hours: saturday 12:10-13:00...13:10, 18:00-19:30, (予備) monday 21:40-22:10
+* notes: [![コブラ](http://tiqav.com/5H9.th.jpg)](http://tiqav.com/5H9)
 
 ## team-name "VCT"
 * description: ベトナム語画像検索
@@ -32,13 +33,14 @@ Web Application development by agile method in class 2015
 * members: @konagayoshi, @Hikaru8191(SM), @IshizukaYasuhito(PO)
 * notes:
 
-## team-name "Capricorn"
-* description: エンジニア向けの情報提供サービス
+## Capricorn "Capricorn（仮称）"
+* description: 日用品の買い忘れ防止サービス
 * source: https://github.com/5843435/capricorn
 * service: https://rails-capricorn.herokuapp.com/
-* CI/test: (TBD)
+* CI/test: https://travis-ci.org/5843435/capricorn
 * backlog: https://trello.com/b/oEhnlYKW/capricorn
-* members: @5843435, @AkiraTamai, @kkazuma, @tumezu
+* business hours: Wednesday 19:30-21:00 @ Yurakucho, Saturday 13:00-18:00 @ aiit
+* members: @5843435(SM), @AkiraTamai, @kkazuma(PO)
 * notes:
 
 ## シーサイド技研 "わたしもなれるかも！？"
@@ -47,7 +49,7 @@ Web Application development by agile method in class 2015
 * service: https://seaside-lab.herokuapp.com/
 * CI/test: https://travis-ci.org/JunkiK/seaside_lab
 * backlog: https://trello.com/b/uLTVAyba/2015enpit
-* business hours: e.g. Wednesday 19:00-21:40, saturday 13:00-18:00
+* business hours: Wednesday 19:00-21:40, saturday 9:00-12:00
 * members: @JunkiK(SM), @ookawa443(PO), @e1501ta, @MaMiyauchi, @z15026hy
 * notes:
 
@@ -62,12 +64,13 @@ Web Application development by agile method in class 2015
 * notes:
 
 ## team-name "tebiti"
-* description: スポーツの種目のメンバーを結びつけるサービス(仮)
+* description: ハイライト動画作成支援サービス
 * source: https://github.com/yuya-painapo/want_to
 * service: http://infinite-plateau-1767.herokuapp.com/
-* CI/test: (TBD) URL
-* backlog: (TBD) URL
-* members: @yuya-painapo, @taikione, @k158584
+* CI/test: https://travis-ci.org/yuya-painapo/want_to
+* backlog: https://trello.com/b/Uau9ZLsp/tebiti
+* members: @yuya-painapo, @taikione (PM), @k158584 (SM)
+* business hours: saturday 10:00-15:00, thursday 10:00-12:00
 * notes:
 
 
