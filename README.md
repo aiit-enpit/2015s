@@ -44,9 +44,9 @@ Web Application development by agile method in class 2015
 ## シーサイド技研 "わたしもなれるかも！？"
 * description: 綺麗になりたい女子のダイエットをサポートするサービスです。
 * source : https://github.com/JunkiK/seaside_lab
-* service: (TBD) https://seaside-lab.herokuapp.com/
-* CI/test: (TBD) https://travis-ci.org/JunkiK/seaside_lab
-* backlog: (TBD) URL
+* service: https://seaside-lab.herokuapp.com/
+* CI/test: https://travis-ci.org/JunkiK/seaside_lab
+* backlog: https://trello.com/b/uLTVAyba/2015enpit
 * business hours: e.g. Wednesday 19:00-21:40, saturday 13:00-18:00
 * members: @JunkiK(SM), @ookawa443(PO), @e1501ta, @MaMiyauchi, @z15026hy
 * notes:
