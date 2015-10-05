@@ -66,13 +66,14 @@ Web Application development by agile method in class 2015
 * business hours: saturday 14:45-16:15, 16:30-18:00, (remote) thursday 21:00-22:00
 * notes:
 
-## team-name "tebiti"
-* description: ハイライト動画作成支援サービス
+## tebiti "niconico highlight"
+* description: 見てる人がniconicoできるようなハイライト情報提供を目的としたサービス。  
+動画を見ている時に、"高まる"、"興奮する" ような瞬間をひと目で分かるようにする。
 * source: https://github.com/yuya-painapo/want_to
 * service: http://infinite-plateau-1767.herokuapp.com/
 * CI/test: https://travis-ci.org/yuya-painapo/want_to
 * backlog: https://trello.com/b/Uau9ZLsp/tebiti
-* members: @yuya-painapo, @taikione (PM), @k158584 (SM)
+* members: @yuya-painapo, @taikione (PO), @k158584 (SM) 
 * business hours: saturday 10:00-15:00, thursday 10:00-12:00
 * notes:
 
