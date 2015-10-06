@@ -51,7 +51,7 @@ Web Application development by agile method in class 2015
 * source : https://github.com/JunkiK/seaside_lab
 * service: https://seaside-lab.herokuapp.com/
 * CI/test: https://travis-ci.org/JunkiK/seaside_lab
-* backlog: (TBD) URL
+* backlog: https://trello.com/b/uLTVAyba/2015enpit. 
 * business hours: Wednesday 19:00-21:40, saturday 9:00-13:00
 * members: @JunkiK(SM), @ookawa443(PO), @e1501ta, @MaMiyauchi, @z15026hy
 * notes:
