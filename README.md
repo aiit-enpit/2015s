@@ -41,8 +41,8 @@ Web Application development by agile method in class 2015
 * backlog: https://trello.com/b/oEhnlYKW/capricorn
 * business hours: Every Saturday evening and 
   * 10/6（Tue） 20:00 @ Yurakucho
-  * 10/12（Mon） or 16（Fri） @ TBD
-  * 10/19（Mon） @ TBD
+  * 10/12（Mon） @ Tokyo Station
+  * 10/19（Mon） @ Yurakucho
 * members: @5843435(SM), @AkiraTamai, @kkazuma(PO)
 * notes:
 
