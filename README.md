@@ -52,7 +52,7 @@ Web Application development by agile method in class 2015
 * service: https://seaside-lab.herokuapp.com/
 * CI/test: https://travis-ci.org/JunkiK/seaside_lab
 * backlog: https://trello.com/b/5a6hbwCs/product-backlogs
-* business hours: Wednesday 19:00-21:40, saturday 9:00-12:00
+* business hours:thursday 20:10-21:40, saturday 9:00-12:00
 * members: @JunkiK(SM), @e1501ta, @z15026hy(PO)
 * notes:
 
