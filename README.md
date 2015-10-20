@@ -56,7 +56,7 @@ Web Application development by agile method in class 2015
 * members: @JunkiK(SM), @e1501ta, @z15026hy(PO)
 * notes:
 
-## 河北飯店 "親孝行サービス(仮)"
+## 河北飯店 "OYACO"
 * description: 親子の絆を強くする親孝行サービスです。
 * source: https://github.com/KahokuHanten/oyaco
 * service: https://oyaco.herokuapp.com/
