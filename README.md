@@ -64,8 +64,15 @@ Web Application development by agile method in class 2015
 * business hours: saturday 10:00-15:00, thursday 10:00-12:00
 * notes:
 
-
-
+## ~~シーサイド技研 "わたしもなれるかも！？"~~
+* ~~description: 綺麗になりたい女子のダイエットをサポートするサービスです。~~
+* ~~source : https://github.com/JunkiK/seaside_lab~~
+* ~~service: https://seaside-lab.herokuapp.com/~~
+* ~~CI/test: https://travis-ci.org/JunkiK/seaside_lab~~
+* ~~backlog: https://trello.com/b/5a6hbwCs/product-backlogs~~
+* ~~business hours:thursday 20:10-21:40, saturday 9:00-12:00~~
+* ~~members: @JunkiK(SM), @e1501ta, @z15026hy(PO)~~
+* notes: Merged into Capricorn.
 
 ## notes
 please update your service by your self
