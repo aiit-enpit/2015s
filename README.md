@@ -33,7 +33,7 @@ Web Application development by agile method in class 2015
 * members: @konagayoshi, @Hikaru8191(SM), @IshizukaYasuhito(PO)
 * notes:
 
-## Capricorn "Capricorn（仮称）"
+## Capricorn "ずぼらパンダ"
 * description: 日用品の買い忘れ防止サービス
 * source: https://github.com/5843435/capricorn
 * service: https://rails-capricorn.herokuapp.com
