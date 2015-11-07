@@ -36,7 +36,7 @@ Web Application development by agile method in class 2015
 ## Capricorn "Capricorn（仮称）"
 * description: 日用品の買い忘れ防止サービス
 * source: https://github.com/5843435/capricorn
-* service: https://rails-capricorn.herokuapp.com/
+* service: https://rails-capricorn-st.herokuapp.com
 * CI/test: https://travis-ci.org/5843435/capricorn
 * backlog: https://trello.com/b/oEhnlYKW/capricorn
 * business hours: Every Saturday evening @ aiit, Every Monday night @ Yurakucho
