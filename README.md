@@ -17,7 +17,7 @@ Web Application development by agile method in class 2015
 ## いいね "いいね〜む"
 * description: awesome name service as **いいね〜む**.
 * source: https://github.com/iine/iiname
-* service: http://iiname.herokuapp.com/
+* service: http://www.iiname.net
 * CI/test: https://travis-ci.org/iine/iiname/
 * backlog: https://trello.com/b/CYm33FNj/iiname
 * members: @atakei, @chrhsmt (SM), @harakoji (PO), @KenyaOkada, @kinchan33
@@ -60,7 +60,7 @@ Web Application development by agile method in class 2015
 * service: http://infinite-plateau-1767.herokuapp.com/
 * CI/test: https://travis-ci.org/yuya-painapo/want_to
 * backlog: https://trello.com/b/Uau9ZLsp/tebiti
-* members: @yuya-painapo, @taikione (PO), @k158584 (SM) 
+* members: @yuya-painapo, @taikione (PO), @k158584 (SM)
 * business hours: saturday 10:00-15:00, thursday 10:00-12:00
 * notes:
 
