@@ -40,7 +40,7 @@ Web Application development by agile method in class 2015
 * CI/test: https://travis-ci.org/5843435/capricorn
 * backlog: https://trello.com/b/oEhnlYKW/capricorn
 * business hours: Every Saturday evening @ aiit, Every Monday night @ Yurakucho
-* members: @5843435(SM), @AkiraTamai, @kkazuma(PO), @JunkiK, @z15026hy
+* members: @5843435, @AkiraTamai(SM), @kkazuma(PO), @JunkiK, @z15026hy
 * notes:
 
 ## 河北飯店 "OYACO"
