@@ -57,7 +57,7 @@ Web Application development by agile method in class 2015
 * description: 見てる人がniconicoできるようなハイライト情報提供を目的としたサービス。  
 動画を見ている時に、"高まる"、"興奮する" ような瞬間をひと目で分かるようにする。
 * source: https://github.com/yuya-painapo/want_to
-* service: http://infinite-plateau-1767.herokuapp.com/
+* service: http://niconico-highlight.herokuapp.com/
 * CI/test: https://travis-ci.org/yuya-painapo/want_to
 * backlog: https://trello.com/b/Uau9ZLsp/tebiti
 * members: @yuya-painapo, @taikione (PO), @k158584 (SM), @yuya-nakamura, @hogehiga, @rikki-tamaki
